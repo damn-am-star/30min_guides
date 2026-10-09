@@ -1,14 +1,17 @@
-30min_guides
-============
+# 30 分钟入门指南
 
-覃健祥的学习笔记，各种几十分钟入门的文档
+这里收录覃健祥的学习笔记，尝试用短篇幅介绍一个主题的核心概念与上手路径。各主题指南面向初学者；涉及安全、法规或快速变化的平台时，请同时查阅适用地区的官方资料。
 
-# 实操系列
-- [iOS开发60分钟入门手册](ios.md)
-- [Shell编程30分钟入门](shell.md)
+## 实操指南
 
-# 原理系列
-- [移动设备定位原理](how_does_mobile_device_get_location.md)
+- [iOS 开发入门：从项目到真机运行](ios.md)
+- [Shell 脚本 30 分钟入门](shell.md)
 
-# 业务规则总结（非技术）
-- [零售行业优惠规则](promotion_rule.md)
+## 原理指南
+
+- [移动设备如何定位](how_does_mobile_device_get_location.md)
+
+## 生活与业务指南
+
+- [儿童汽车安全座椅选购与使用](how_to_buy_car_seat.md)
+- [零售促销规则拆解与计算](promotion_rule.md)
